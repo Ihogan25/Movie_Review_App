@@ -1,0 +1,7 @@
+Movie: Up. Genre: family. Plot: old man takes an adventure. Rating: 8. Duration: 84.
+Movie: Man of Steel. Genre: sci-fi. Plot: boy has powers and learns how to harness them. Rating: 8. Duration: 125.
+Movie: Shawshank Redemption. Genre: drama. Plot: falsly acused lawyer finds escapes prison. Rating: 9. Duration: 126. 
+Movie: The Godfather. Genre: drama. Plot: set in new york inspecting the lives of a italian mob. Rating: 9. Duration: 167. 
+Movie: Hachi. Genre: Drama. Plot: Dog and man become bestfriends then dog dies. Rating: 8. Duration: 145. 
+Movie: American Hustler. Genre: Drama. Plot: Bunch of bloody con artists decept each other. Rating: 6. Duration: 132. 
+Movie: Braveheart. Genre: Drama. Plot: When the english are taking over the scotland a brave scootish man rebels and defies all odds.. Rating: 8. Duration: 156. 
